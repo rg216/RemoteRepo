@@ -1,3 +1,4 @@
+//This program is an apllication of stack data structure.
 #include <stdio.h>
 
 typedef struct Node
